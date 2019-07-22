@@ -1,0 +1,11 @@
+{
+  "from": "STN",
+  "to": "SVQ",
+  "departureDay": "01",
+  "departureMonth": "01",
+  "departureYear": "2018",
+  "returnDay": "09",
+  "returnMonth": "01",
+  "returnYear": "2018",
+  "numberOfAdults": 2
+}
